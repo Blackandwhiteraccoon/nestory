@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Hub",
+  "description": "Assistant intelligent de gestion d'inventaire propulsé par l'IA pour cataloguer, valoriser et entretenir vos biens en toute simplicité.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
